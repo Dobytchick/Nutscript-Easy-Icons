@@ -1,7 +1,7 @@
 # Nutscript Easy Icons
  
 This plugin allows standard NutScript icons without any problems and confusion.<br><br>
-![Example prview](https://raw.githubusercontent.com/Dobytchick/Nutscript-Easy-Icons/master/code.png)
+![Example prview](https://raw.githubusercontent.com/Dobytchick/Nutscript-Easy-Icons/master/preview.png)
 
 
 # Example Usage:
