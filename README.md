@@ -22,3 +22,6 @@ Font | Size
 nutIconsSmallNew | 22
 nutIconsMediumNew | 28
 nutIconsBigNew | 48
+
+# Links:
+[List of all icons](https://dobytchick.github.io/)
